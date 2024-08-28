@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #0059ff;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #0059ff;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: #0059ff;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: #0059ff;
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: #0059ff;
 }
 
 #fh5co-header,
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  /* background: #FF9000; */
+  /* background: #0059ff; */
   background: rgba(0, 68, 255, 0.527);
 }
 #fh5co-features h2 {
@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  /* background: #FF9000; */
+  /* background: #0059ff; */
   background: rgba(0, 68, 255, 0.527);
 
 }
@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: #0059ff;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -406,7 +406,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #0059ff;
 }
 
 .fh5co-heading {
@@ -734,7 +734,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .work .desc {
   display: table-cell;
   vertical-align: middle;
-  height: 270px;
+  height: 350px;
   background: #fff;
   opacity: 0;
   -webkit-transition: 0.3s;
@@ -1115,9 +1115,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: #0059ff;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid #0059ff;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1125,11 +1125,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FF9000;
-  border: 2px solid #FF9000;
+  color: #0059ff;
+  border: 2px solid #0059ff;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: #0059ff;
   color: #fff;
 }
 
@@ -1259,7 +1259,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #0059ff;
 }
 
 .row-pb-md {
